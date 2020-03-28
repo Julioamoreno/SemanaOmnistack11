@@ -1,10 +1,10 @@
 # Semana OmniStack 11
 
-## Projeto Rocketseat
+## Projeto Rocketseat - Backend
 
 Criar a aplicação be the hero
 
-### Linguagens e tecnologias utilizadas
+### Linguagens e tecnologias utilizadas no backend
 - node js
-- react
-- react native
+- express
+- banco de dados sqlite - usando knex.js
